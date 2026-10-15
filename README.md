@@ -1,6 +1,6 @@
 # Talbot Lab Bioinformatics Notebooks (under construction)
 
-A collection of analysis notebooks from my time as a Postbac Bioinformatician in the [Talbot Lab](https://www.fredhutch.org/](https://www.fredhutch.org/en/people/t/jhimmy-talbot.html) at Fred Hutchinson Cancer Center (~2.5 years). The work centers on single-cell RNA-seq multimodal analysis and computational biology, from raw count processing through clustering, differential expression, differential abundance, and visualization.
+A collection of analysis notebooks from my time as a Postbac Bioinformatician in the [Talbot Lab](https://www.fredhutch.org/en/people/t/jhimmy-talbot.html) at Fred Hutchinson Cancer Center (~2.5 years). The work centers on single-cell RNA-seq multimodal analysis and computational biology, from raw count processing through clustering, differential expression, differential abundance, and visualization.
 
 > **Note:** These notebooks are shared to demonstrate analysis methods and workflows. Raw and unpublished data are not included in this repository. Paths to data files have been removed or replaced with placeholders.
 

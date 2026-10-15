@@ -66,8 +66,6 @@ A collection of analysis notebooks from my time as a Postbac Bioinformatician in
 - **Visualization:** ggplot2, matplotlib, seaborn
 - **Environment:** Jupyter, RStudio, Fred Hutch HPC cluster
 
-*(Edit this list to match what the notebooks actually use.)*
-
 ---
 
 ## Acknowledgments
